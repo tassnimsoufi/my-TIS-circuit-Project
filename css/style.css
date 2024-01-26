@@ -138,28 +138,28 @@ a.active {
     transform-origin: left top;
 }
 #p1{
-    font-size: 30px;
+    font-size:  40px;
     text-align: left;
-    line-height: 149px;
+    line-height: 80px;
     padding-right: 60px;
-    padding-left: 108px;
+    padding-left: -3px;
     font-family: '__Fjalla One_5';
     font-weight: 400;
     
 }
 #p2{
-    font-size: 30px;
+    font-size: 40px;
     text-align: right;
-    line-height: 50px;
-    padding-right: 108px;
-    padding-left: 48px;
+    line-height: 3px;
+    padding-right: 86px;
+    padding-left: 58px;
     font-family: '__Fjalla One_5';
     font-weight: 400;
 }
 #p3{
     font-size: 23px;
     text-align: right;
-    line-height: 28px;
+    line-height: 37px;
     padding-right: 180px;
     padding-left: 40px;
     font-family: '__Comfortaa_5';
@@ -169,7 +169,7 @@ a.active {
     font-size: 23px;
     text-align: right;
     line-height: 28px;
-    padding-right: 180px;
+    padding-right: 163px;
     padding-left: 40px;
     font-family: '__Comfortaa_5';
     font-weight: 700;
@@ -191,4 +191,7 @@ color: #d40029;
 .d4009{
     color: black;
     font-size: 81px ;
+}
+.para{
+    max-height: 1000000px;
 }
